@@ -1,2 +1,2 @@
-# map-vue
+# Map-Vuejs
 World map in vue js 
